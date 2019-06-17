@@ -88,7 +88,7 @@
 -   Advanced SQL Queries for Analytics
 
 
-**PART C- PYTHON FOR DATA SCIENCE**
+**PART C- PYTHON FOR DATA SCIENCE** [https://www.youtube.com/watch?v=N4mEzFDjqtA]
 
 **1. Python Programming Basics**
 
@@ -136,14 +136,14 @@
 -   Regular Expression Modifiers
 -   Regular Expression patterns, re module
 
-**6. Numpy**
+**6. Numpy** [https://www.youtube.com/playlist?list=PLNmACol6lYY5DafThhu1LsH8MlldnHf44]
 
 -   Introduction to numpy. Array Creation,Printing Arrays
 -   Basic Operations- Indexing, Slicing and Iterating
 -   Shape Manipulation – Changing shape, stacking and splitting of array
 -   Vector stacking
 
-**7. Pandas And matplotlib**
+**7. Pandas And matplotlib** [https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-][https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy][https://www.youtube.com/watch?v=r0s4slGHwzE&list=PLeo1K3hjS3uvMADnFjV1yg6E5nVU4kOob][https://www.youtube.com/watch?v=qqwf4Vuj8oM&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl]
 
 -   Introduction to Pandas
 -   Importing data into Python
