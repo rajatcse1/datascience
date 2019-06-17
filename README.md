@@ -67,7 +67,7 @@
 -   More About Graphs: Adding Legends to Graphs Adding Text to Graphs, Orienting the Axis Label
 
 
-**PART B – INTRODUCTION TO SQL**
+**PART B – INTRODUCTION TO SQL** [https://www.youtube.com/watch?v=HXV3zeQKqGY]
 
 **1. Introduction to SQL Server and RDBMS**
 
